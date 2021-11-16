@@ -1,0 +1,16 @@
+Body{background-color: #eee;
+}
+form{
+    background-color: rgb(98, 12, 236);
+    border: rgb(214, 248, 135);
+    border-radius: 2px;
+    width: 25%;
+    margin: 120px;
+    padding: 50px;
+}
+div{
+  color:yellow;
+  background-color: 337Ab7;
+  padding: 14px;
+  margin-left: 50%;
+}
